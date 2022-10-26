@@ -4,7 +4,7 @@ $email = $_POST["rhEmail"];
 $phone_number = $_POST["rhPhoneNum"];
 $company_name = $_POST["rhCompName"];
  
-$EmailTo = "sebastian.puente.how@gmail.com";
+$EmailTo = "sebastian.puente.how@icloud.com";
 $Subject = "Message from " . $name;
  
 // prepare email body text
